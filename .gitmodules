@@ -1,0 +1,6 @@
+[submodule "pasteHandler"]
+	path = pasteHandler
+	url = git@github.com:Lunatic-of-Fate/pasteHandler.git
+[submodule "hashGenerator"]
+	path = hashGenerator
+	url = git@github.com:Lunatic-of-Fate/hashGenerator.git
